@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug"/>
+				<Option working_dir="/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug"/>
+				<Option working_dir="/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug"/>
+				<Option working_dir="/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="cpp-tips">
-				<Option output="/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/cpp-tips" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug"/>
+				<Option output="/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/cpp-tips" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp-tips"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp-tips"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="cpp-tips/fast">
-				<Option output="/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/cpp-tips" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug"/>
+				<Option output="/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/cpp-tips" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,23 +73,23 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp-tips/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp-tips/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Volumes/HDD/code/clion/cpp-tips/Objeto.cpp">
+		<Unit filename="/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/Objeto.cpp">
 			<Option target="cpp-tips"/>
 		</Unit>
-		<Unit filename="/Volumes/HDD/code/clion/cpp-tips/Objeto.h">
+		<Unit filename="/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/Objeto.h">
 			<Option target="cpp-tips"/>
 		</Unit>
-		<Unit filename="/Volumes/HDD/code/clion/cpp-tips/main.cpp">
+		<Unit filename="/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/main.cpp">
 			<Option target="cpp-tips"/>
 		</Unit>
-		<Unit filename="/Volumes/HDD/code/clion/cpp-tips/CMakeLists.txt">
+		<Unit filename="/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

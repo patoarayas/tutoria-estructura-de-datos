@@ -1,3 +1,3 @@
-/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/CMakeFiles/cpp-tips.dir
+/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/CMakeFiles/cpp-tips.dir

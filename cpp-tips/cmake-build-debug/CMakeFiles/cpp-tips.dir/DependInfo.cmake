@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Volumes/HDD/code/clion/cpp-tips/Objeto.cpp" "/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/CMakeFiles/cpp-tips.dir/Objeto.cpp.o"
-  "/Volumes/HDD/code/clion/cpp-tips/main.cpp" "/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/CMakeFiles/cpp-tips.dir/main.cpp.o"
+  "/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/Objeto.cpp" "/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/CMakeFiles/cpp-tips.dir/Objeto.cpp.o"
+  "/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/main.cpp" "/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/CMakeFiles/cpp-tips.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

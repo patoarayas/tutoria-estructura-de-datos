@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/HDD/code/clion/cpp-tips/Objeto.h
+/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/Objeto.h
 iostream
 -
 
-/Volumes/HDD/code/clion/cpp-tips/main.cpp
+/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/main.cpp
 iostream
 -
 fstream
@@ -18,5 +18,5 @@ fstream
 string
 -
 Objeto.h
-/Volumes/HDD/code/clion/cpp-tips/Objeto.h
+/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/Objeto.h
 

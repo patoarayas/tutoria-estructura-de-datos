@@ -68,8 +68,10 @@ void ejemploPunteros() {
 
 void ejemploArreglos() {
 
+    // Creamos un arreglo simple en c++
     int arr[] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
 
+    // Ver que pasa si intentamos acceder a un elemento fuera del arreglo
     for (int i = 0; i < 12; ++i) {
 
         std::cout << arr[i] << ", ";
@@ -106,9 +108,9 @@ void ejemploInicializacion() {
 
 int main() {
 
-    // abrirArchivo("../Archivo.txt");
-    //ejemploPunteros();
-    //ejemploArreglos();
+    abrirArchivo("../Archivo.txt");
+    ejemploPunteros();
+    ejemploArreglos();
     ejemploInicializacion();
     return 0;
 }

@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Volumes/HDD/code/clion/cpp-tips
+CMAKE_SOURCE_DIR = /Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Volumes/HDD/code/clion/cpp-tips/cmake-build-debug
+CMAKE_BINARY_DIR = /Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/cpp-tips.dir/depend.make
@@ -59,29 +59,29 @@ include CMakeFiles/cpp-tips.dir/flags.make
 
 CMakeFiles/cpp-tips.dir/main.cpp.o: CMakeFiles/cpp-tips.dir/flags.make
 CMakeFiles/cpp-tips.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cpp-tips.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp-tips.dir/main.cpp.o -c /Volumes/HDD/code/clion/cpp-tips/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cpp-tips.dir/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp-tips.dir/main.cpp.o -c /Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/main.cpp
 
 CMakeFiles/cpp-tips.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp-tips.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/HDD/code/clion/cpp-tips/main.cpp > CMakeFiles/cpp-tips.dir/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/main.cpp > CMakeFiles/cpp-tips.dir/main.cpp.i
 
 CMakeFiles/cpp-tips.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp-tips.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/HDD/code/clion/cpp-tips/main.cpp -o CMakeFiles/cpp-tips.dir/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/main.cpp -o CMakeFiles/cpp-tips.dir/main.cpp.s
 
 CMakeFiles/cpp-tips.dir/Objeto.cpp.o: CMakeFiles/cpp-tips.dir/flags.make
 CMakeFiles/cpp-tips.dir/Objeto.cpp.o: ../Objeto.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cpp-tips.dir/Objeto.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp-tips.dir/Objeto.cpp.o -c /Volumes/HDD/code/clion/cpp-tips/Objeto.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cpp-tips.dir/Objeto.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp-tips.dir/Objeto.cpp.o -c /Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/Objeto.cpp
 
 CMakeFiles/cpp-tips.dir/Objeto.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp-tips.dir/Objeto.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/HDD/code/clion/cpp-tips/Objeto.cpp > CMakeFiles/cpp-tips.dir/Objeto.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/Objeto.cpp > CMakeFiles/cpp-tips.dir/Objeto.cpp.i
 
 CMakeFiles/cpp-tips.dir/Objeto.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp-tips.dir/Objeto.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/HDD/code/clion/cpp-tips/Objeto.cpp -o CMakeFiles/cpp-tips.dir/Objeto.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/Objeto.cpp -o CMakeFiles/cpp-tips.dir/Objeto.cpp.s
 
 # Object files for target cpp-tips
 cpp__tips_OBJECTS = \
@@ -95,7 +95,7 @@ cpp-tips: CMakeFiles/cpp-tips.dir/main.cpp.o
 cpp-tips: CMakeFiles/cpp-tips.dir/Objeto.cpp.o
 cpp-tips: CMakeFiles/cpp-tips.dir/build.make
 cpp-tips: CMakeFiles/cpp-tips.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable cpp-tips"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable cpp-tips"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpp-tips.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -108,6 +108,6 @@ CMakeFiles/cpp-tips.dir/clean:
 .PHONY : CMakeFiles/cpp-tips.dir/clean
 
 CMakeFiles/cpp-tips.dir/depend:
-	cd /Volumes/HDD/code/clion/cpp-tips/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Volumes/HDD/code/clion/cpp-tips /Volumes/HDD/code/clion/cpp-tips /Volumes/HDD/code/clion/cpp-tips/cmake-build-debug /Volumes/HDD/code/clion/cpp-tips/cmake-build-debug /Volumes/HDD/code/clion/cpp-tips/cmake-build-debug/CMakeFiles/cpp-tips.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips /Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips /Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug /Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug /Volumes/HDD/code/clion/tutoria-estructura-datos/cpp-tips/cmake-build-debug/CMakeFiles/cpp-tips.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/cpp-tips.dir/depend
 
